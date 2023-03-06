@@ -4,4 +4,4 @@
 
 -> Components: 1. Functional Components 2.Class Based Components 
 
--> JSX : Used to react describe what the UI should look like 
+-> JSX : Used in react describe what the UI should look like 
